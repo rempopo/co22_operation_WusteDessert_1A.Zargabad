@@ -213,3 +213,23 @@ kit_ksk_desert_gr = [
 	["<VEST ITEMS >> ",[["HandGrenade",2],["SmokeShell",1],["HANDGUN MAG",2],["SmokeShellOrange",1],["1Rnd_HE_Grenade_shell",8],["1Rnd_Smoke_Grenade_shell",2],["hlc_20Rnd_762x51_T_fal",2]]],
 	["<BACKPACK ITEMS >> ",[["ACE_EntrenchingTool",1],["ACE_IR_Strobe_Item",1],["ACE_DefusalKit",1],["MineDetector",1],["hlc_20Rnd_762x51_T_fal",7]]]
 ];
+kit_ksk_desert_mm = [
+	["<EQUIPEMENT >>  ","CUP_U_B_GER_Tropentarn_2","TRYK_V_ArmorVest_coyo","B_Carryall_cbr","H_ShemagOpen_tan","TRYK_US_ESS_Glasses"],
+	["<PRIMARY WEAPON >>  ","hlc_rifle_psg1A1","hlc_20rnd_762x51_b_G3",["","","HLC_Optic_ZFSG1","rhsusf_acc_harris_bipod"]],
+	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
+	["<HANDGUN WEAPON >>  ","hgun_P07_F","16Rnd_9x21_Mag",["","","",""]],
+	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS_L],
+	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS_L]],
+	["<VEST ITEMS >> ",[["SmokeShellOrange",1],["SmokeShell",1],["HandGrenade",2],["HANDGUN MAG",2],["PRIMARY MAG",6]]],
+	["<BACKPACK ITEMS >> ",[["ACE_DefusalKit",1],["ACE_IR_Strobe_Item",1],["ACE_Tripod",1],["ACE_RangeCard",1],["PRIMARY MAG",8],["HANDGUN MAG",2]]]
+];
+kit_ksk_desert_amm = [
+	["<EQUIPEMENT >>  ","CUP_U_B_GER_Tropentarn_2","TRYK_V_ArmorVest_coyo","tf_rt1523g_big_bwmod_tropen","H_ShemagOpen_tan","TRYK_US_ESS_Glasses"],
+	["<PRIMARY WEAPON >>  ","hlc_rifle_osw_GL","hlc_20Rnd_762x51_B_fal",["hlc_muzzle_300blk_KAC","","optic_ACO_grn_smg",""]],
+	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
+	["<HANDGUN WEAPON >>  ","hgun_P07_F","16Rnd_9x21_Mag",["","","",""]],
+	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS_L],
+	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS_L]],
+	["<VEST ITEMS >> ",[["SmokeShellOrange",1],["HandGrenade",1],["SmokeShell",1],["HANDGUN MAG",2],["PRIMARY MAG",3],["1Rnd_HE_Grenade_shell",4]]],
+	["<BACKPACK ITEMS >> ",[["PRIMARY MAG",7],["HandGrenade",1]]]
+];

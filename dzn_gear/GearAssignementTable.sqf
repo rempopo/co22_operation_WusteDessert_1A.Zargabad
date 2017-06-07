@@ -20,4 +20,6 @@ A "Platoon Leader"				TO "kit_ksk_desert_sl"	 KIT
 , A "Automatic Rifleman"		TO "kit_ksk_desert_ar"	 KIT
 , A "Grenadier"					TO "kit_ksk_desert_gr"	 KIT
 , A "Rifleman"					TO "kit_ksk_desert_r"	 KIT
+, A "Sniper"					TO "kit_ksk_desert_mm"	 KIT
+, A "Assistant Sniper"			TO "kit_ksk_desert_amm"	 KIT
 

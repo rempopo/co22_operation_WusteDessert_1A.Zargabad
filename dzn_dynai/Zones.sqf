@@ -8,7 +8,7 @@
     /* Groups: */
     [
         [
-            4, /* Groups quantity */
+            2, /* Groups quantity */
             /* Units */
             [
                 ["O_Soldier_F", [], "kit_germ1_oppos_random"]
@@ -16,7 +16,7 @@
             ]
         ]
         ,[
-            10, /* Groups quantity */
+            8, /* Groups quantity */
             /* Units */
             [
                 ["O_Soldier_F", ["indoors"], "kit_germ1_oppos_random"]

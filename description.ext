@@ -17,24 +17,23 @@ class Params
 	class par_daytime
 	{
 	    title = "Время суток";
-	    values[] = {0,1,2};
+	    values[] = {0,1};
 	    default = 0;
-	    texts[] = {"День","Ночь", "Случайно"};
+	    texts[] = {"утро","Вечер"};
 	};
-	class par_weather
-	{
-	    title = "Погода";
-	    values[] = {0,1,2,3,4,5};       
-	    texts[] = {
-		"Случайно"
-		,"Ясно"
-		,"Облачно"
-		,"Пасмурно"
-		,"Дождь"
-		,"Гроза"
-	    };
-	    default = 0;
-	};
+//	class par_weather
+//	{
+//	    title = "Погода";
+//	    values[] = {0,1,2,3,4,5};       
+//	    texts[] = {
+//		"Случайно"
+//		,"Ясно"
+//		,"Облачно"
+//		,"Пасмурно"
+//		,"Дождь"
+//		,"Гроза"    };
+//	    default = 0;
+//	};
 	class dzn_brv_enabled
 	{
 		title = "tS AAR Logging";
