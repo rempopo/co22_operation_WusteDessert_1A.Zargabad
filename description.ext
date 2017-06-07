@@ -106,5 +106,15 @@ class Params
 		default = 90;
 	};
 };
+class CfgMusic
+{
+	tracks[]={};
+
+	class IranDuduk
+	{
+		name = "";
+		sound[] = {"IranDuduk.OGG", db+0, 1.0};
+	}
+	};
 
 
